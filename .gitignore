@@ -1,0 +1,9 @@
+build/
+install/
+log/
+__pycache__/
+*.pyc
+*.egg-info/
+results/
+learning_curves.png
+.pytest_cache/
